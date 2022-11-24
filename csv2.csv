@@ -1,0 +1,7 @@
+username,password,role,licenseRegistrationDate,licenseExpirationDate,licenseCode,firstName,lastName,age,email
+user,123,cyclist,07/01/22,07/11/23,wqdwqdwrq,james,lars,35,ozixllc@gmail.com
+user1,123,cyclist,07/01/20,07/11/22,wqdwqdwrq,james1,lars1,25,ozixllc@gmail.com
+user2,123,cyclist,07/01/19,07/11/24,wqdwqdwrq,james2,lars2,30,ozixllc@gmail.com
+user3,123,cyclist,07/01/21,07/11/24,wqdwqdwrq,james3,lars3,50,ozixllc@gmail.com
+user4,123,cyclist,07/01/22,07/11/25,wqdwqdwrq,james4,lars4,43,ozixllc@gmail.com
+user5,123,cyclist,07/01/21,07/11/23,wqdwqdwrq,james5,lars5,61,ozixllc@gmail.com
